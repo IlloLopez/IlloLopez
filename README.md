@@ -30,6 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IlloLopez/IlloLopez/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IlloLopez/IlloLopez/snake.svg" alt="Snake animation" />
 
 ###
